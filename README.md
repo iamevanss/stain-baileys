@@ -137,4 +137,4 @@ MIT — Based on [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Bail
 ---
 
 **Author:** Stain (`iamevanss`)  
-**Repo:** https://github.com/iamevanss/stain-baileys
+**Contact:** https:t.me/heisevanss
